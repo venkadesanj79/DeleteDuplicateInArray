@@ -59,7 +59,7 @@ public class DeDup
     for(int i : input){
       System.out.print(i+ ",");
     }
-    System.out.println("]");
+    System.out.println("[modified vani]");
   }
   
     
